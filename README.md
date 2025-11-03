@@ -1,9 +1,10 @@
-# Week 0
+# Week 11
 
-This week is meant to give you a very basic introduction to ... In particular, we will focus on the following:
+This week's lab is meant to introduce you to the idea of Unsupervised Learning. In particular, we'll cover the following topics:
 
-- XXX
-- XXX
+Similarity
+Clustering
+Recommender Systems
 
 ## Setup
 
